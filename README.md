@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo! Eu sou a Andrey Fernando Soares 
+## Olá! Seja bem vindo! Eu sou o Andrey Fernando Soares 
 
 <div>
   <a href="https://github.com/andreyFernandoSoares">
