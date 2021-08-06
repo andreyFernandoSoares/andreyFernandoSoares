@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
- <img align="right" alt="Rafa-yoda" height="200" width="150" src="https://media.giphy.com/media/bIyDsxKayxWlG/giphy.gif">
+ <img align="right" alt="Rafa-yoda" height="150" width="80" src="https://media.giphy.com/media/bIyDsxKayxWlG/giphy.gif">
 </div>
   
   ##
