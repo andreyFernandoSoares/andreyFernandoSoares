@@ -36,6 +36,7 @@
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Andrey" height="70" width="80" src="https://symbols.getvecta.com/stencil_74/14_apache-kafka-icon.96e46bbe3a.svg">
  
   <img align="right" alt="Andrey" height="130" width="130" src="https://media.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif">
 </div>
