@@ -1,3 +1,5 @@
+## Oiii! Eu sou a Andrey Fernando Soares 
+
 <style>
 .tooltip .tooltiptext {
   visibility: hidden;
@@ -32,8 +34,6 @@
   opacity: 1;
 }
 </style>
-
-## Oiii! Eu sou a Andrey Fernando Soares 
  <div>
   <a href="https://github.com/andreyFernandoSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyFernandoSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
