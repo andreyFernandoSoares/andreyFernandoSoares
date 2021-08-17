@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo! Eu sou o Andrey Fernando Soares 
+## Hello! Welcome! I am Andrey.
 
 <div>
   <a href="https://github.com/andreyFernandoSoares">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyFernandoSoares&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-## Linguagens
+## Language
 <div style="display: inline_block"><br>
   <img class="tooltip" align="center" alt="Andrey" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
  
-## Dados
+## Data
  <div style="display: inline_block"><br>
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
