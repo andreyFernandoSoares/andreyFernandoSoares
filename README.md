@@ -17,7 +17,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Andrey" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-   <img align="center" alt="Andrey" height="70" width="80" src="https://guides.hazelcast.org/home/_images/logo-quarkus.png">
+   <img align="center" alt="Andrey" height="50" width="80" src="https://guides.hazelcast.org/home/_images/logo-quarkus.png">
 </div>
  
 ## Data
@@ -27,7 +27,7 @@
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://symbols.getvecta.com/stencil_261/4_apache-hadoop.4ee0d0745c.svg">
-  <img align="center" alt="Andrey" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </div>
  
 ## DevOps
