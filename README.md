@@ -17,7 +17,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Andrey" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andrey" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-   <img align="center" alt="Andrey" height="70" width="80" src="https://jkremser.github.io/spark-operator-quarkus/quarkus-logo.png">
+   <img align="center" alt="Andrey" height="70" width="80" src="https://guides.hazelcast.org/home/_images/logo-quarkus.png">
 </div>
  
 ## Data
